@@ -36,12 +36,3 @@
 - B.Sc. Mathematics | Serampore College, Calcutta University 
 
 
----
-layout: default
----
-
-## 📫 Contact
-
-- 📧 Email: [ayan292004banerjee@gmail.com](mailto:ayan292004banerjee@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ayan-banerjee-b8234b321](https://www.linkedin.com/in/ayan-banerjee-b8234b321)
-- 🐙 GitHub: [github.com/AyanBanerjee29](https://github.com/AyanBanerjee29)
