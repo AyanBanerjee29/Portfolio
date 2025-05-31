@@ -1,5 +1,5 @@
 # Data Scientist
-#Passionate in Statistics , ML & DL
+# Passionate in Statistics , ML & DL
 
 ## Projects
 ### 🎬 Movie Recommendation System with LightGCN
