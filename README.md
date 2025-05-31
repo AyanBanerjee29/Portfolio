@@ -1,10 +1,8 @@
 # Data Scientist
 # Passionate in Statistics , ML & DL
 
-# 📫 Contact 
-- 📧 Email: [ayan@gmail.com](ayan292004banerjee@gmail.com)
-- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/ayan-banerjee-b8234b321 )
-- 🐙 GitHub: [github.com](https://github.com/AyanBanerjee29)
+
+
 
 ## Projects
 ### 🎬 Movie Recommendation System with LightGCN
@@ -36,3 +34,14 @@
 ## Education					       		
 - M.Sc. in Big Data Analytics	| RKMVERI 			        		
 - B.Sc. Mathematics | Serampore College, Calcutta University 
+
+
+---
+layout: default
+---
+
+## 📫 Contact
+
+- 📧 Email: [ayan292004banerjee@gmail.com](mailto:ayan292004banerjee@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ayan-banerjee-b8234b321](https://www.linkedin.com/in/ayan-banerjee-b8234b321)
+- 🐙 GitHub: [github.com/AyanBanerjee29](https://github.com/AyanBanerjee29)
