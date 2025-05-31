@@ -1,6 +1,11 @@
 # Data Scientist
 # Passionate in Statistics , ML & DL
 
+# 📫 Contact 
+- 📧 Email: [ayan@gmail.com](ayan292004banerjee@gmail.com)
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/ayan-banerjee-b8234b321 )
+- 🐙 GitHub: [github.com](https://github.com/AyanBanerjee29)
+
 ## Projects
 ### 🎬 Movie Recommendation System with LightGCN
 ● Built a GNN-based movie recommender using PyTorch Geometric
