@@ -9,9 +9,6 @@ footer {
 }
 </style>
 
-# 👋 Ayan Banerjee
-
-![Ayan](https://avatars.githubusercontent.com/u/179697030?s=400&v=4)
 
 ## 📫 Contact
 
