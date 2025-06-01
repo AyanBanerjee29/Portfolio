@@ -3,4 +3,6 @@ logo: https://avatars.githubusercontent.com/u/179697030?s=400&u=997c6c41a502a973
 description: Data Analyst
 #show_downloads: false
 #google_analytics:
+footer: false
+
 theme: jekyll-theme-minimal
